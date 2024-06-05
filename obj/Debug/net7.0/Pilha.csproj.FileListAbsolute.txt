@@ -1,0 +1,14 @@
+c:\dev\Pilha\bin\Debug\net7.0\Pilha.exe
+C:\dev\Pilha\bin\Debug\net7.0\Pilha.deps.json
+C:\dev\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+c:\dev\Pilha\bin\Debug\net7.0\Pilha.dll
+c:\dev\Pilha\bin\Debug\net7.0\Pilha.pdb
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.dll
+c:\dev\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+c:\dev\Pilha\obj\Debug\net7.0\Pilha.pdb
+C:\dev\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+C:\dev\Pilha\obj\Debug\net7.0\ref\Pilha.dll
